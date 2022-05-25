@@ -1,0 +1,26 @@
+body {
+  background-color: #bea67d;
+  font-family: "Aleo", serif;
+  font-weight: 700;
+}
+div {
+  background-color: #382d26;
+  font-size: 32px;
+  text-align: center;
+  font-style: bold;
+  font-style: italic;
+  color: white;
+}
+p.always {
+  font-size: 18;
+  font-style: italic;
+  color: white;
+  background-color: #2d4120;
+  text-align: center;
+}
+button.toTop {
+  color: white;
+  background-color: lightgray;
+  height: 30px;
+  width: auto;
+}
