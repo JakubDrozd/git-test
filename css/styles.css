@@ -3,7 +3,7 @@ body {
   font-family: "Aleo", serif;
   font-weight: 700;
 }
-div {
+div.breaking {
   background-color: #382d26;
   font-size: 32px;
   text-align: center;
@@ -23,4 +23,45 @@ button.toTop {
   background-color: lightgray;
   height: 30px;
   width: auto;
+}
+p.oddNumber {
+  background-color: lightcoral;
+  font-family: "Verana", "DejaVu Sans", sans-serif;
+}
+#two {
+  color: blue;
+  font-size: 36px;
+}
+p.oddNumber.three {
+  font-size: 24px;
+}
+#four {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-style: bold;
+}
+button.all {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+button.all.firstOne {
+  background-color: black;
+  color: white;
+}
+button.all.secondOne {
+  background-color: yellow;
+}
+img.avatar.proportioned {
+  width: 300px;
+  height: auto;
+}
+img.avatar.disorted {
+  width: 200px;
+  height: 400px;
+}
+div p.text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
 }
