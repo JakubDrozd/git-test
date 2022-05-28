@@ -55,4 +55,16 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  flex-grow: 1;
+  /* flex: 1; */
+}
+/* .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 60vh;
+} */
+body {
+  display: flex;
+  flex-direction: column;
 }
